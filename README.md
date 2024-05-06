@@ -1,4 +1,4 @@
-### Hi, I'm Henry Pham 
+### Hi, I'm Henry Pham !!
 - 🔭I've been coding in Java and Python for over 6 years
 - 😄I'm currently a 4th year at San Jose State University
 - 👯I'm passionate about learning new languages, frameworks, and processes !!
